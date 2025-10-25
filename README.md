@@ -12,6 +12,10 @@ _A curated list of awesome resources for genetic engineering._
 
 </details>
 
+![](./assets/genetic_engineering.jpg) [^image_attribution]
+
+[^image_attribution]: This file is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons "w:en:Creative Commons") [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en "creativecommons:by-sa/3.0/deed.en") license. Image Changed Made: None. Image Link: <https://commons.wikimedia.org/wiki/File:Rat_hippocampus_stained_with_antibody_to_NeuN_(green),_myelin_basic_protein_(red)_and_DNA_(blue).jpg>. Image Description: "This is a section of adult rat hippocampus stained with antibody to the neuronal nucleus and perikaryal antibody [NeuN](https://en.wikipedia.org/wiki/NeuN "en:NeuN") (a.k.a. Fox3) in green and antibody to myelin basic protein (MBP) in red. The MBP reveals neuronal axons while the NeuN antibody reveals neurons but not non neuronal cells. The fluorescent blue DNA stain [DAPI](https://en.wikipedia.org/wiki/DAPI "en:DAPI") was used to stain nuclei on neurons and non-neuronal cells. Antibodies and imaging courtesy of [EnCor Biotechnology Inc](https://en.wikipedia.org/wiki/EnCor_Biotechnology_Inc "en:EnCor Biotechnology Inc").".
+
 ## Contents
 
 - [Books](#books)
