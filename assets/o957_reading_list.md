@@ -1,0 +1,36 @@
+# O957's Reading List - Genetic Engineering
+
+- [A Programmable Dual-RNA-Guided DNA Endonuclease](https://www.science.org/doi/10.1126/science.1225829): Jinek et al. foundational CRISPR-Cas9 paper.
+- [RNA-Guided Human Genome Engineering](https://www.science.org/doi/10.1126/science.1232033): Mali et al. and Cong et al. back-to-back papers.
+- [CRISPR-Cas9 Structures and Mechanisms](https://www.annualreviews.org/doi/abs/10.1146/annurev-biophys-062215-010822): Doudna and Charpentier review.
+- [Base Editing](https://www.nature.com/articles/nature17946): Komor et al. on precise single-base editing.
+- [Prime Editing](https://www.nature.com/articles/s41586-019-1711-4): Anzalone et al. on search-and-replace genome editing.
+- [CRISPRoff: Epigenetic Editing](https://www.cell.com/cell/fulltext/S0092-8674(21)00353-6): Nunez et al. on heritable gene silencing.
+- [Leber Congenital Amaurosis Gene Therapy](https://www.nejm.org/doi/full/10.1056/NEJMoa0802268): Maguire et al. on RPE65 gene therapy.
+- [Spinal Muscular Atrophy AAV Gene Therapy](https://www.nejm.org/doi/full/10.1056/NEJMoa1706198): Mendell et al. on Zolgensma.
+- [CAR-T Cell Therapy](https://www.nejm.org/doi/full/10.1056/NEJMoa1407222): Maude et al. on leukemia treatment.
+- [In Vivo CRISPR Gene Editing for Transthyretin Amyloidosis](https://www.nejm.org/doi/full/10.1056/NEJMoa2107454): Gillmore et al. clinical trial.
+- [Sickle Cell Disease CRISPR Therapy](https://www.nejm.org/doi/full/10.1056/NEJMoa2031054): Frangoul et al. on CTX001.
+- [A Synthetic Oscillatory Network of Transcriptional Regulators](https://www.nature.com/articles/35002125): Elowitz and Leibler repressilator.
+- [Synthesis of a Bacterial Genome](https://www.science.org/doi/10.1126/science.1190719): Gibson et al. on Mycoplasma mycoides.
+- [Orthogonal Translation System](https://www.nature.com/articles/nature13314): Lajoie et al. on recoded E. coli.
+- [Minimal Cell](https://www.science.org/doi/10.1126/science.aad6253): Hutchison et al. on JCVI-syn3.0.
+- [Xenobiology](https://www.nature.com/articles/nature08187): Marlière et al. on expanded genetic alphabets.
+- [Golden Rice: Vitamin A Biofortification](https://www.science.org/doi/10.1126/science.287.5451.303): Ye et al. on beta-carotene rice.
+- [Bt Crops and Insect Resistance](https://www.nature.com/articles/nbt1003): Tabashnik et al. on transgenic pest control.
+- [CRISPR-Edited Crops](https://www.nature.com/articles/nbt.3808): Voytas and Gao review.
+- [Gene-Edited Livestock](https://www.nature.com/articles/s41467-020-14583-x): Tan et al. on disease-resistant pigs.
+- [Environmental Impact of GM Crops](https://www.nature.com/articles/s41598-018-21284-2): Klümper and Qaim meta-analysis.
+- [Gene Drive Systems](https://www.science.org/doi/10.1126/science.1260572): Esvelt et al. on CRISPR-based gene drives.
+- [Malaria Mosquito Gene Drive](https://www.nature.com/articles/nbt.3412): Hammond et al. proof of concept.
+- [Daisy-Chain Gene Drives](https://www.pnas.org/doi/10.1073/pnas.1716358116): Noble et al. on reversible drives.
+- [Gene Drive Risk Assessment](https://www.nature.com/articles/s41437-019-0231-2): Champer et al. modeling and containment.
+- [CRISPR-Cas9 Genome Editing in Human Embryos](https://link.springer.com/article/10.1007/s13238-015-0153-5): Liang et al. first human embryo editing.
+- [Correction of DMD Mutation in Human Embryos](https://www.nature.com/articles/nature23305): Ma et al. on dystrophin repair.
+- [Heritable Human Genome Editing](https://www.nature.com/articles/s41586-018-0734-8): He Jiankui CCR5 editing controversy.
+- [International Commission on Heritable Human Genome Editing](https://www.nationalacademies.org/news/2020/09/heritable-human-genome-editing): Framework and recommendations.
+- [Human Genome Editing: Science, Ethics, and Governance](https://www.nap.edu/catalog/24623/human-genome-editing-science-ethics-and-governance): National Academies report.
+- [Heritable Genome Editing](https://www.nature.com/articles/s41586-020-2880-x): International commission recommendations.
+- [CRISPR Ethics](https://www.annualreviews.org/doi/abs/10.1146/annurev-med-112618-015557): Cwik review.
+- [Justice and Genetic Enhancement](https://www.nature.com/articles/s41576-020-0238-6): Anomaly on fairness concerns.
+- [Asilomar Principles for  CRISPR](https://www.cell.com/cell/fulltext/S0092-8674(15)01705-5): Baltimore et al. on responsible use.
