@@ -73,14 +73,7 @@ _A curated list of awesome resources for genetic engineering._
 
 ## Researchers
 
-- [Jennifer Doudna](https://doudnalab.org/): Nobel laureate and CRISPR-Cas9 pioneer at UC Berkeley.
-- [Emmanuelle Charpentier](https://www.mpg.de/11683344/emmanuelle-charpentier): Nobel laureate and CRISPR researcher.
-- [Feng Zhang](https://zlab.bio/): Broad Institute scientist developing CRISPR technologies.
-- [David Liu](https://liugroup.us/): Harvard chemist who invented base editing and prime editing.
-- [George Church](https://hsci.harvard.edu/people/george-m-church-phd): Harvard geneticist pioneering synthetic biology and genome engineering.
-- [Kevin Esvelt](https://www.媒体lab.mit.edu/people/esvelt/overview/): MIT researcher developing gene drive systems.
-- [Fyodor Urnov](https://www.altius.org/our-people/fyodor-urnov-phd/): Gene editing expert focused on therapeutic applications.
-- [J. Keith Joung](https://www.jounglab.org/): Massachusetts General Hospital researcher developing genome editing tools.
+- [George Church](https://github.com/church-lab): Harvard geneticist pioneering synthetic biology and genome engineering.
 
 ## Courses
 
