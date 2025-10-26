@@ -30,6 +30,7 @@ _A curated list of awesome resources for genetic engineering._
 - [Software](#software)
 - [Websites](#websites)
 - [Educational Resources](#educational-resources)
+- [Contribution](#contribution)
 
 ## Books
 
@@ -135,6 +136,10 @@ _A curated list of awesome resources for genetic engineering._
 
 - [CRISPR Course (MIT OpenCourseWare)](https://ocw.mit.edu/courses/biology/7-016-introductory-biology-fall-2018/): Introduction to molecular biology.
 - [Khan Academy Genetics](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation): Free genetics courses.
+
+## Contribution
+
+Notice anything missing that would be a good fit? If interested in contributing, please see the [contributing file](./CONTRIBUTING.md) for further direction.
 
 ## License
 
